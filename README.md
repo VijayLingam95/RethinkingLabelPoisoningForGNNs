@@ -1,0 +1,2 @@
+# RethinkingLabelPoisoningForGNNs
+Official code for RETHINKING LABEL POISONING FOR GNNS: PITFALLS AND ATTACKS [ICLR 2024]
