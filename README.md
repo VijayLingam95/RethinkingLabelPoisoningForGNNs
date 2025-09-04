@@ -3,6 +3,8 @@ Official code for RETHINKING LABEL POISONING FOR GNNS: PITFALLS AND ATTACKS [ICL
 
 To run our repository, first install the requirements listed in requirements.txt
 
+Download data from here: https://github.com/VijayLingam95/PitfallsOfLabelPoisoningAttacksForGNNs
+
 
 Run the below commands with configurable parameters as needed:
 
